@@ -1,4 +1,4 @@
-**Name:** K.Kavya
+**Name:** K.KAVYA
 
 **Company:** CODTECH IT SOLUTIONS
 
@@ -8,7 +8,7 @@
 
 **Duration:** June to July 2024
 
-**Mentor:** 
+**Mentor:** NEELA SANTHOSH KUMAR
 
 ## Overview of the project 
 
