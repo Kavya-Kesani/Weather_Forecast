@@ -1,47 +1,96 @@
-**Name:** K.KAVYA
+# 🌦️ Weather Forecast App
 
-**Company:** CODTECH IT SOLUTIONS
+A sleek and responsive **Weather Forecast Application** built using **HTML**, **CSS**, and **JavaScript**, which allows users to get real-time weather updates by entering any city name.
 
-**ID:** CT4WD2527
+👉 **Live Demo:** [https://weatherforecast232.netlify.app/](https://weatherforecast232.netlify.app/)
 
-**Domain:** Web Development
+---
 
-**Duration:** June to July 2024
+## 📁 Project Structure
 
-**Mentor:** NEELA SANTHOSH KUMAR
+```
+Weather App/
+│
+├── images/
+│ ├── clear.png
+│ ├── clouds.png
+│ ├── drizzle.png
+│ ├── humidity.png
+│ ├── mist.png
+│ ├── rain.png
+│ ├── search.png
+│ └── wind.png
+│
+├── index.html # Main HTML structure
+└── style.css # Styling for the weather app
+```
 
-## Overview of the project 
+---
 
-### Project: Weather Forecast app using Html,Css and javascript
-### Objective
+## 🎯 Features
 
-The objective of the project is to develop a fully functional, user-friendly Weather Forecast appusing HTML, CSS and JavaScript. 
+- 🔍 Search weather by **city name**
+- 🌡️ Displays **current temperature**, **weather condition**, **humidity**, and **wind speed**
+- ☁️ Shows matching **weather icons** (Clear, Clouds, Rain, Mist, etc.)
+- ❌ Displays an **error message** for invalid city names
+- 🎨 Stylish glassmorphism UI with responsive design
 
-## Key Activities
-**Planning and Design :** Define the scope and features of the Weather Forecast app.
+---
 
-**Setting up the Development Environment:** Set up a version control system(e.g., Git) for tracking changes.
+## 🚀 How to Run
 
-**HTML Structure:** Develop the basic HTML structure for the Weather Forecast app.
+1. **Clone or Download** this repository.
+2. Open `index.html` in your web browser.
+3. Enter a city name and click the search button to check the weather!
 
-**CSS Styling:** Apply Styles to the HTML structure to clean and neat responsive design.
+---
 
-## Technology Used
-**HTML(Hyper Text Markup Language):** Used for creating the structure of the Weather Forecast app.
+## 📝 How It Works
 
-**CSS(Cascading Style Sheets):** Used for styling the HTML elements to create a visually appealing and responsive design.
+- The app uses the **OpenWeatherMap API** to fetch real-time weather data.
+- Based on the returned weather condition, it updates:
+  - 🌡️ Temperature (in °C)
+  - 💨 Wind speed
+  - 💧 Humidity level
+  - 🌦️ Appropriate weather icon
+- If the city name is invalid, an error message is displayed.
 
-**JavaScript:** Provides interactivity and dynamic behavior for the application.
+---
 
-**Development Tools:** CODE EDITOR(e.g., Visual Studio Code): For writing and managing the code.
+## 🔑 Technologies Used
 
-## Key Insights
+- **HTML5**
+- **CSS3** (Glassmorphism & Flexbox)
+- **JavaScript (Vanilla)**
+- **OpenWeatherMap API**
 
-**Component-Based Approach:** Breaking the application into smaller, manageable components(humidity,images).
+---
 
-**Reusable Code:** Writing reusable functions and components reduces redundancy and promotes cleaner code.
+## 🤝 Contribution
 
-**Accessibility:** Ensuring the application is aacessible to all users, including those with disabilities, enhances its usability.
+Feel free to **fork** this repository, enhance the UI, or add new features via pull requests.
 
-![ss_2](https://github.com/Kavya-Kesani/CODTECH-Task_2/assets/174758012/25307c25-0f6e-4827-8f6d-bd16aab93e09)
+---
 
+## 🙋‍♀️ Author
+
+**K. Kavya**  
+🎓 Student, SRM University AP  
+💡 Passionate about building modern, interactive web applications with clean design.
+
+---
+
+## 📬 Contact
+
+📧 Gmail: [kavyarambabu232@gmail.com](mailto:kavyarambabu232@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/kavya-kesani-700a51292](https://www.linkedin.com/in/kavya-kesani-700a51292)
+
+---
+
+## 🏷️ License
+
+This project is open-source and free to use for educational or personal projects.
+
+---
+
+⭐ *Feel free to fork, star, or contribute to this repository!*
